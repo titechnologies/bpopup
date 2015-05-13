@@ -4,7 +4,7 @@
 http://dinbror.dk/bpopup
 
 ### API: ###
-http://dinbror.dk/blog/bpopup
+http://dinbror.dk/blog/bpopup/
 
 ### DESCRIPTION: ###
 bPopup is a lightweight jQuery modal popup plugin (only 1.34KB gzipped). It doesn't create or style your popup but provides you with all the logic like centering, modal overlay, events and more. It gives you a lot of opportunities to customize so it will fit your needs.
